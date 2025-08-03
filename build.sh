@@ -1,1 +1,1 @@
-python3 src/main.py "/toddswift/bootdev-staticsitegenerator/"
+python3 src/main.py "/bootdev-staticsitegenerator/"
